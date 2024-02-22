@@ -1,3 +1,84 @@
 a{
   text-decoration: none;
 }
+
+header{
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+body{
+  background-color: #f0f1f2;
+  color:cadetblue;
+  font-family: monospace;
+}
+
+nav{
+  background-color: #d5dcde;
+  text-align: center;
+}
+
+aside{
+  background-color:#e6faff;
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+}
+
+footer{
+  text-align: center;
+}
+
+nav, aside{
+  color:#005251;
+}
+
+a{
+  text-decoration: none;
+  color:dodgerblue;
+}
+
+a:visited{
+  color:aquamarine
+}
+
+a:hover{
+  color:mediumturquoise;
+}
+
+section{
+  border: 10px;
+  border-color: black;
+}
+
+h1{
+  font-size: 3em;
+}
+
+p{
+  font-size: 1em;
+  text-align: justify;
+}
+
+span{
+  font-weight: bold;
+}
+
+main{
+  background-color:lightcyan;
+  width: 90%;
+  margin: auto;
+}
+
+.intro{
+  color: rgb(0, 0, 0);
+}
+
+.cool-features{
+  color: rgb(121, 121, 121);
+}
+
+.summary{
+  color: rgb(207, 206, 206);
+}
